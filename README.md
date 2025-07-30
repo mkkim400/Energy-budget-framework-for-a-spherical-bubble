@@ -1,4 +1,4 @@
-# Bubble Dynamics Simulation using the Keller-Miksis Equation
+# Bubble Dynamics Simulation and Energy Budget Analysis
 
 This repository contains MATLAB scripts to simulate the radial dynamics of a gas bubble in a liquid medium using the **Keller-Miksis (KM)** equation. The model considers effects such as compressibility, viscosity, and surface tension. These simulations are useful for research in cavitation, sonoluminescence, and acoustic bubble dynamics.
 
